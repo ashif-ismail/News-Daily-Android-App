@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">News Daily</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">About</string>
+    <string name="title_activity_english_news">English News</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="hello_blank_fragment">hello_blank_fragment</string>
+
+    <string name="about_body"><![CDATA[
+        Material Styled News App,developed and designed by <b>Asif Ismail</b>.<br/>
+        <a href=\'http://www.ashif.me\'>Website</a>&nbsp;&nbsp;
+        <a href=\'https://twitter.com/_almukthar\'>Twitter</a>&nbsp;&nbsp;
+        <a href=\'https://github.com/SheikhZayed\'>GitHub</a>&nbsp;&nbsp;
+        <a href=\'https://www.linkedin.com/in/ashifismail\'>LinkedIn</a>
+    ]]></string>
+
+
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="kerala_ml">കേരളം</string>
+    <string name="india_ml">ഇന്ത്യ</string>
+    <string name="world_ml">വിദേശം</string>
+    <string name="gulf_ml">ഗള്‍ഫ്</string>
+    <string name="business_ml">വാണിജ്യം</string>
+    <string name="health_ml">ആരോഗ്യം</string>
+    <string name="education_ml">വിദ്യ</string>
+    <string name="tech_ml">ശാസ്ത്രം</string>
+    <string name="sports_ml">കായികം</string>
+    <string name="politics_ml">രാഷ്ട്രീയം</string>
+    <string name="uae_ml"> യു ഏ ഈ</string>
+    <string name="gadgets_ml">ഗ്യാഡ്‌ജെട്സ്</string>
+    <string name="saudi_ml">സൌദി</string>
+    <string name="farm_ml">കൃഷി</string>
+
+    <!-- hindi -->
+    <string name="india_hn">राज्य</string>
+    <string name="world_hn">दुनिया</string>
+    <string name="auto_hn">ऑटो</string>
+    <string name="edu_hn">विधयाब्यास</string>
+    <string name="tech_hn">टेक</string>
+    <string name="sports_hn">खेल</string>
+    <string name="biz_hn">बिज़्नेस</string>
+    <string name="cricket_hn">क्रिकेट</string>
+
+
+    <!--kannada -->
+    <string name="karnataka_kn">ಕರ್ನಾಟಕ</string>
+    <string name="india_kn">ಇಂಡಿಯಾ</string>
+    <string name="world_kn">ವರ್ಲ್ಡ್</string>
+    <string name="bz_kn">ಬಿಸ್ನೆಸ್</string>
+    <string name="gulf_kn">ಗಲ್ಫ್ೆಸ್</string>
+    <string name="cricket_kn">ಕ್ರಿಕೆಟ್</string>
+    <string name="tech_kn">ಟೆಕ್</string>
+    <string name="blore_kn">ಬಾಂಗ್ಲೋರೆ</string>
+    <string name="edit_kn">ಎಡಿಟೋರಿಯಲ್</string>
+    <string name="politics_kn">ಪಾಲಿಟಿಕ್ಸ್</string>
+    <string name="sports_kn">ಸ್ಪೋರ್ಟ್ಸ್</string>
+    <string name="district_kn">ತಾಲೂಕ್್ಸ್</string>
+    <string name="auto_kn">ಆಟೋ</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+
+    <string name="title_activity_news_details">NewsDetails</string>
+</resources>

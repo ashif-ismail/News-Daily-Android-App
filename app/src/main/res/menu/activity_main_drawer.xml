@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"> xmlns:android="http://schemas.android.com/apk/res/android">
+   <group android:checkableBehavior="single">
+        <item android:id="@+id/nav_home" android:icon="@drawable/ic_home_black_24dp"
+            android:title="Home" />
+       <!-- <item android:id="@+id/nav_starred" android:icon="@drawable/ic_favorite_black_24dp"
+            android:title="Favourites" /> -->
+   </group>
+
+    <item android:title="Switch Language">
+        <menu>
+            <item android:id="@+id/nav_hin" android:icon="@drawable/ic_label_black_24dp"
+                android:title="हिन्दी" />
+            <item android:id="@+id/nav_mal" android:icon="@drawable/ic_label_black_24dp"
+                android:title="മലയാളം" />
+            <item android:id="@+id/nav_kan" android:icon="@drawable/ic_label_black_24dp"
+                android:title="ಕನ್ನಡ" />
+        </menu>
+    </item>
+    <item android:title="Preferences">
+        <menu>
+            <item android:id="@+id/about" android:icon="@drawable/ic_account_circle_black_24dp"
+                android:title="About this App" />
+            <item android:id="@+id/rate" android:icon="@drawable/ic_stars_black_24dp"
+                android:title="Rate this App" />
+
+        </menu>
+    </item>
+
+</menu>
